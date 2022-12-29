@@ -8,10 +8,10 @@ Those who successfully complete the course will be invited to take a test at the
 These are the queries written to solve the quizzes in each of the courses taken.
 
 # Dataset
-nd the dataset used can be found here.
+The dataset was provided by Udacity and it had 5 tables. 
 
 # Tools Used
-The tool used for this is the PostgressSQL.
+The tool used for this is the PostgressSQL(Pdadmin4).
 
 # Curriculum
 The Topics covered are below
