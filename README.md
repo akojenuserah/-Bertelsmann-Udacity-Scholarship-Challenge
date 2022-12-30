@@ -16,7 +16,8 @@ The dataset was provided by Udacity and it had 5 tables named;
 - Sales_reps
 - Web_events
 
-##Tools Used
+## Tools Used
+
 The tool used for this is the PostgressSQL(Pgadmin4).
 
 ## Curriculum
